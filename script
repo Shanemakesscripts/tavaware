@@ -1,4 +1,3 @@
-
 --anti - lag
 local senv = getsenv(game.Players.LocalPlayer.PlayerGui.Client)senv.splatterBlood = function() end 
 
@@ -6707,7 +6706,6 @@ end)
 	end
 	debug.setupvalue(givefunc, 7, gun)
 end)]]
-end
 
 
 
