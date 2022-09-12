@@ -145,7 +145,7 @@ function library:New(name)
 	Menu.BackgroundColor3 = COL3RGB(0, 0, 0) 
 	Menu.Position = UDIM2(0.5, -300, 0.5, -300) 
 	Menu.Size = UDIM2(0, 600, 0, 625) 
-	Menu.Image = "" 
+	Menu.Image = "10891968499" 
 	Menu.BorderSizePixel = 0 
 
 	library.uiopen = true 
